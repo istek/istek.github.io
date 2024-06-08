@@ -1,0 +1,12 @@
+---
+id: 212
+title: 正月十五闹元宵!
+date: 2006-02-13T14:12:49+00:00
+author: Stanley
+layout: post
+guid: http://www.mstz.us/?p=212
+permalink: /fifteenth-day-lantern-festival/
+categories:
+  - 我的世界
+---
+今天是农历正月十五,农历2006年的第一个满月夜,也是农历新年的最后一天,在这里祝愿所有访问本站的朋友们,身体健康,合家欢乐,事业顺利,学习进步,万事如意,财源滚滚,总之就是_* 旺!旺!旺!_*

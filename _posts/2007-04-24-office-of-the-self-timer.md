@@ -1,0 +1,12 @@
+---
+id: 718
+title: 办公室自拍
+date: 2007-04-24T03:39:38+00:00
+author: Stanley
+layout: post
+guid: http://www.mstz.us/?p=718
+permalink: /office-of-the-self-timer/
+categories:
+  - 我的世界
+---
+马上就要结束在这里的工作了，想拍下来，留作纪念，因为这里改变了我很多很多。

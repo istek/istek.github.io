@@ -1,0 +1,28 @@
+---
+id: 536
+title: 10月21日Blog被黑
+date: 2006-10-23T08:08:29+00:00
+author: Stanley
+layout: post
+guid: http://www.mstz.us/?p=536
+permalink: /october-21-was-black-blog/
+categories:
+  - 我的世界
+---
+刚才打开blog页面，发现数据库连接字符串错误，就想到肯定有&#8221;人&#8221;动了我的&#8221;奶酪&#8221;！强烈谴责这种行为！！！黑客，你有本事黑这里算什么男人？你有本事把CIA，FBI，DEA，日本的网站全部黑掉啊，靠个smart tool就充当黑客，真的很不要脸！
+
+有本事就来兰州，让我给你好好的把你&#8221;伺候&#8221;一下！
+
+是不是不知道CIA,FBI,DEA的站点地址，行，没有问题，我告诉你。
+
+CIA： <http://www.cia.gov>
+
+FBI：<http://www.fbi.gov>
+
+DEA: <http://www.dea.gov>
+
+有本事把我中华人民共和国的国旗挂到index页面上！算你牛B！操！
+
+<span class="ztags"><span class="ztagspace">Technorati</span> : <a href="http://technorati.com/tag/blog">blog</a>, <a href="http://technorati.com/tag/%E9%BB%91%E5%AE%A2">黑客</a></span> 
+  
+<span class="ztags"><span class="ztagspace">Del.icio.us</span> : <a href="http://del.icio.us/tag/blog">blog</a>, <a href="http://del.icio.us/tag/%E9%BB%91%E5%AE%A2">黑客</a></span>

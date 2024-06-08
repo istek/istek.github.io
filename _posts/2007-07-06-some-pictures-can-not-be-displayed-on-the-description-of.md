@@ -1,0 +1,16 @@
+---
+id: 800
+title: 关于部分图片不能显示的说明
+date: 2007-07-06T16:12:59+00:00
+author: Stanley
+layout: post
+guid: http://www.mstz.us/?p=800
+permalink: /some-pictures-can-not-be-displayed-on-the-description-of/
+categories:
+  - 我的世界
+---
+       因为QQ的相册有诸多限制和使用不便，所以我一直使用的是巴巴变的相册。如果在这里您看不到我的相片的话，可以移步我的相册，慢慢欣赏。
+
+相册地址：
+
+<http://arvan.bababian.com/>

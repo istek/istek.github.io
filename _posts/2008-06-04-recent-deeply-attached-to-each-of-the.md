@@ -1,0 +1,14 @@
+---
+id: 952
+title: 最近相亲了
+date: 2008-06-04T19:35:37+00:00
+author: Stanley
+layout: post
+guid: http://www.mstz.us/?p=952
+permalink: /recent-deeply-attached-to-each-of-the/
+categories:
+  - 我的世界
+---
+周二的中午，相亲去了，哈哈。看来自己也不能免俗了。小我一岁，还不错，工作和我一样都是打工的。呵呵。
+
+先接触看看啦。

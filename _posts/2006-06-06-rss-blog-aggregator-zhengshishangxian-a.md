@@ -1,0 +1,16 @@
+---
+id: 396
+title: RSS博客聚合器正式上线了！
+date: 2006-06-06T06:59:40+00:00
+author: Stanley
+layout: post
+guid: http://www.mstz.us/?p=396
+permalink: /rss-blog-aggregator-zhengshishangxian-a/
+categories:
+  - 我的世界
+---
+在忙活了一个早上后，终于将新的博客聚合器搭建完成正式上线。名称暂时定为 面朝大海，春暖花开 ，宗旨或者说是方向主要是立足本地，积极地开展博客，连接读者和博友。
+
+地址是： <http://rss.bestzhou.org/>
+
+希望各位加入聚合器的朋友，能在自己的站点放置站点LOGO。

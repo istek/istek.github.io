@@ -1,0 +1,12 @@
+---
+id: 732
+title: 5月1日视频日志
+date: 2007-05-06T15:12:31+00:00
+author: Stanley
+layout: post
+guid: http://www.mstz.us/?p=732
+permalink: /may-1st-video-log/
+categories:
+  - 我的世界
+---
+呵呵，5月1日晚上用摄像头录制的视频日志，大家看看，呵呵，特意做的片头和片尾。
