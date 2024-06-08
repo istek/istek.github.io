@@ -118,9 +118,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: istek/istek.github.io # <gh-username>/<repo>
-    repo_id: 'R_kgDOLLY4qA'
+    repo_id: 'R_kgDOMGf-rw'
     category: 'General'
-    category_id: 'DIC_kwDOLLY4qM4Cenb0'
+    category_id: 'DIC_kwDOMGf-r84Cf8ZO'
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
