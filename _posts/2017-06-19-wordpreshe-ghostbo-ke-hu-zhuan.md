@@ -54,7 +54,7 @@ zip wp2ghost.zip wp2ghost_export_1418184250.json
 
 编辑`ghost/content/theme/casper/post.hbs`文件，在`</footer>`和`</article>`之间添加如下代码
 
-```
+```javascript
 <div id="disqus_thread"></div>
 <script>
 

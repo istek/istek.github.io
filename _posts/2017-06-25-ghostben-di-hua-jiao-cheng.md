@@ -34,13 +34,13 @@ tags:
 编辑`ghost/content/themes/casper/default.hbs`文件
 
 将下面的这段代码的域名部分做修改
-```
+```javascript
 {{!-- Styles'n'Scripts --}}
 <link rel="stylesheet" type="text/css" href="//fonts.lug.ustc.edu.cn/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 ```
 
 改为
-```
+```javascript
 {{!-- Styles'n'Scripts --}}
 <link rel="stylesheet" type="text/css" href="//fonts.css.network/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 ```
@@ -85,7 +85,7 @@ mysql> update users set image = '//www.gravatar.com/avatar/d9ec64e61ba31510cc96b
 目前可用的评论系统，貌似只有disqus，网易云跟帖，但是disqus被墙，所以只能使用网易云跟帖。
 
 编辑`ghost/content/themes/casper/post.hbs`文件，在`</footer>`和`</article>`之间增加云跟帖的**通用代码**
-```
+```javascript
 <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
 <script>
   var cloudTieConfig = {
