@@ -5,7 +5,7 @@ type: post
 category: 
  - Linux
 tags:
- - CloudFlare
+ - Cloudflare
 ---
 
 ## Tunnel可以做什么[^1]

@@ -13,11 +13,6 @@ tags:
 <!--more-->
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2BHj31ufdEqVK5CkYDp9mA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-{{< spotify type="track" id="2BHj31ufdEqVK5CkYDp9mA" width="100%" height="250" >}}
-
-
-
 歌词如下：
 
 > To you, yes, my love to you

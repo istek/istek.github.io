@@ -4,7 +4,7 @@ date: 2019-01-06T12:47:45+08:00
 draft: false
 layout: post
 tags: 
-  - andriod
+  - Andriod
 categories:
   - Linux
 ---

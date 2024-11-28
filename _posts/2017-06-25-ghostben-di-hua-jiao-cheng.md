@@ -20,12 +20,15 @@ tags:
 
 ### 中科大
 
+```
     //fonts.proxy.ustclug.org/
+```
 
 ### css.network
 
+```
     //fonts.css.network
-
+```
 ## 1.2 修改办法
 
 编辑`ghost/content/themes/casper/default.hbs`文件
@@ -224,13 +227,12 @@ storage: {
 
 OKAY，大功告成，重启应用，以后需要高亮代码的时候，在**```**后面增加语言名称即可，示例如下：
 
-```
-​```sql
+```sql
 SELECT * FROM mysql.user;
-​```
 ```
 
-# 8, 待续
+
+# 8. 待续
 
 
 [^1]: https://fixatom.com/part-of-ghost-localize/
