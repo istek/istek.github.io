@@ -34,16 +34,22 @@ tags:
 编辑`ghost/content/themes/casper/default.hbs`文件
 
 将下面的这段代码的域名部分做修改
-```javascript
-{{!-- Styles'n'Scripts --}}
-<link rel="stylesheet" type="text/css" href="//fonts.lug.ustc.edu.cn/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
-```
+
+{% highlight liquid linenos %}
+{% raw %}
+{% {{!-- Styles'n'Scripts --}} %}
+{% <link rel="stylesheet" type="text/css" href="//fonts.lug.ustc.edu.cn/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" /> %}
+{% endraw %}
+{% endhighlight %}
 
 改为
-```javascript
-{{!-- Styles'n'Scripts --}}
-<link rel="stylesheet" type="text/css" href="//fonts.css.network/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
-```
+
+{% highlight liquid linenos %}
+{% raw %}
+{% {{!-- Styles'n'Scripts --}} %}
+{% <link rel="stylesheet" type="text/css" href="//fonts.css.network/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" /> %}
+{% endraw %}
+{% endhighlight %}
 
 # 2. Gravatar 头像国内镜像
 
