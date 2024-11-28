@@ -54,28 +54,25 @@ zip wp2ghost.zip wp2ghost_export_1418184250.json
 
 编辑`ghost/content/theme/casper/post.hbs`文件，在`</footer>`和`</article>`之间添加如下代码
 
-```javascript
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-
-var disqus_config = function () {
-    this.page.url = '{{url absolute="true"}}';
-    this.page.identifier = 'ghost-{{id}}';
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://你的disqus网站名.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-```
+{% highlight liquid linenos %}
+{% raw %}
+{% <div id="disqus_thread"></div> %}
+{% <script> %}
+{% var disqus_config = function () { %}
+{%     this.page.url = '{{url absolute="true"}}';  %}
+{%     this.page.identifier = 'ghost-{{id}}';  %}
+{% };  %}
+{%  %}
+{% (function() { %}
+{% var d = document, s = d.createElement('script');  %}
+{% s.src = 'https://你的disqus网站名.disqus.com/embed.js';  %}
+{% s.setAttribute('data-timestamp', +new Date());  %}
+{% (d.head || d.body).appendChild(s);  %}
+{% })();  %}
+{% </script>  %}
+{% <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> %}
+{% endraw %}
+{% endhighlight %}
 
 注意：代码中**你的disqus网站名**，这个填你自己的网站名。
 

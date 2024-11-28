@@ -219,17 +219,19 @@ storage: {
 
 然后修改`default.hbs`文件，在`</head>` 之前加入如下代码
 
-```
-<link rel="stylesheet" type="text/css" href="{{asset "css/prism.css"}}" />
-```
+{% highlight liquid linenos %}
+{% raw %}
+{% <link rel="stylesheet" type="text/css" href="{{asset "css/prism.css"}}" /> %}
+{% endraw %}
+{% endhighlight %}
 
 在`</body>` 之前，加入如下代码
 
-```
-
-<script type="text/javascript" src="{{asset "js/prism.js"}}"></script>
-
-```
+{% highlight liquid linenos %}
+{% raw %}
+{% <script type="text/javascript" src="{{asset "js/prism.js"}}"></script> %}
+{% endraw %}
+{% endhighlight %}
 
 OKAY，大功告成，重启应用，以后需要高亮代码的时候，在**```**后面增加语言名称即可，示例如下：
 
