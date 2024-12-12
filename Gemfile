@@ -6,6 +6,7 @@ gem 'jekyll', '~> 4.3', '>= 4.3.4'
 gem 'base64', '~> 0.2.0'
 gem 'csv', '~> 3.3'
 gem 'jekyll-theme-chirpy', '~> 7.2.2'
+gem 'jekyll-feed'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
