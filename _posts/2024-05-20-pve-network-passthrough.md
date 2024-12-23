@@ -88,15 +88,16 @@ USB硬盘的直通，PVE确实很方便，直接qm disk set就可以了。
 
 ## 如果你觉得local-lvm 和 lvm 两个分区容易造成空间浪费，可以合并成一个
 
- 1、备份虚拟机
- 2、删除虚拟机
- 3、删除local-lvm
- 命令：lvremove pve/data
- 4、把local-lvm空间分配给Local
- 命令：
- lvextend -l +100%FREE -r pve/root
- resize2fs /dev/mapper/pve-root
- 5、删除local-lvm
- 网页登陆，数据中心-存储-删除local-lvm
- 6、编辑local，内容里添加 磁盘映像和容器，保存
- 7、恢复虚拟机
+1. 备份虚拟机
+2. 删除虚拟机
+3. 删除local-lvm: `lvremove pve/data`
+4. 把local-lvm空间分配给Local:
+
+```bash
+lvextend -l +100%FREE -r pve/root
+resize2fs /dev/mapper/pve-root
+```
+
+5. 删除local-lvm: `网页登陆，数据中心-存储-删除local-lvm`
+6. 编辑local，内容里添加 磁盘映像和容器，保存
+7. 恢复虚拟机
