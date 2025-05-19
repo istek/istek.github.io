@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+mise settings add idiomatic_version_file ruby
 source "https://rubygems.org"
 
 gem 'jekyll', '~> 4.3', '>= 4.3.4'
