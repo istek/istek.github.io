@@ -11,8 +11,15 @@ lang: zh-CN
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Shanghai
 
+lang: en
+
+# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+timezone: Asia/Shanghai
+
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
+
 
 title: "米斯特周" # the main title
 
@@ -22,6 +29,7 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
+
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
@@ -40,6 +48,7 @@ social:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
+
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -71,7 +80,11 @@ analytics:
   cloudflare:
     id: 2fd5d08f3f0a4a7a8031c8194e45e585 # fill in your Cloudflare Web Analytics token
 
-# Pageviews settings
+  fathom:
+    id: # fill in your Fathom Site ID
+
+# Page views settings
+
 pageviews:
   provider: # now only supports 'goatcounter'
 
@@ -83,8 +96,13 @@ pageviews:
 #
 # Available options:
 #
+
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
+
+#     light — Use the light color scheme
+#     dark — Use the dark color scheme
+
 #
 theme_mode: # [light | dark]
 
@@ -96,7 +114,9 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
+
 avatar: "https://www.xiaobaby.eu.org/file/641894fe47dadc9cb872b.jpg"
+
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -108,6 +128,7 @@ toc: true
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
   provider: giscus # [disqus | utterances | giscus]
+
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -161,7 +182,7 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: false
+      line_numbers: true
       start_line: 1
 
 collections:
@@ -214,8 +235,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
+  - purgecss.js
   - "*.config.js"
-  - package*.json
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]

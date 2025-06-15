@@ -1,5 +1,6 @@
 #  The contact options.
 
+<<<<<<< HEAD
 #- type: github
 #  icon: "fab fa-github"
 
@@ -9,6 +10,17 @@
 #- type: email
 #  icon: "fas fa-envelope"
 #  noblank: true # open link in current tab
+=======
+- type: github
+  icon: "fab fa-github"
+
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+>>>>>>> v7.3.0
 
 - type: rss
   icon: "fas fa-rss"
