@@ -97,4 +97,3 @@ services:
 ```
 tailscale netcheck
 ```
-![](https://www.xiaobaby.eu.org/file/AgACAgEAAyEGAASQfha-AAMkadyL13W6oYGtzTipggfrTyyWanUAAh4MaxvWRuhG24PCTW-wYk4BAAMCAAN4AAM7BA.png)
