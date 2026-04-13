@@ -3,7 +3,7 @@ title: "Tailscale-自建Derp中继服务器"
 date: 2026-03-12T15:29:32+08:00
 draft: false
 categories:
- - Windows
+ - Linux
 tags:
  - Tailscale
 featured_image: 
