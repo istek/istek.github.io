@@ -21,6 +21,7 @@ Tailscale 是一个基于 Wireguard 的带有多种网络工具的 P2P 组网工
 ![](https://www.xiaobaby.eu.org/file/AgACAgEAAyEGAASQfha-AAMiadyLT3V30EecRdb7XfoEQCsQDdEAAhwMaxvWRuhGoCoF6d_EjY0BAAMCAAN4AAM7BA.png)
 
 在默认情况下，Tailscale 官方已经提供了环大陆的官方 DERP 服务（见下方`图 1`），但是由于中国大陆的网络连通性等问题，官方并未提供大陆的 DERP 节点。为了确保大陆的打通成功率，我们需要自建一个 DERP 服务，来帮助我们“打洞”。
+
 ![](https://www.xiaobaby.eu.org/file/AgACAgEAAyEGAASQfha-AAMjadyLm5x5gFVxjYxywD5oncBmt7oAAh0MaxvWRuhGXAABKQqYeC4IAQADAgADeAADOwQ.png)
 
 
