@@ -121,7 +121,7 @@ toc: true
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: giscus # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus | twikoo]
 
   # The provider options are as follows:
   disqus:
@@ -131,6 +131,10 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
+  twikoo:
+    envid: 'https://twikoo99.netlify.app/.netlify/functions/twikoo'
+    region: ''
+    lang: 'zh-CN'
   giscus:
     repo: istek/istek.github.io # <gh-username>/<repo>
     repo_id: 'R_kgDONV7MXg'
