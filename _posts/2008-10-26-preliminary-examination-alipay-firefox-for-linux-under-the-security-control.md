@@ -1,5 +1,5 @@
 ---
-title: 初试支付宝针对 Linux 下 Firefox 的安全控件
+title: "初试支付宝针对 Linux 下 Firefox 的安全控件"
 date: 2008-10-26T02:36:02+00:00
 layout: post
 categories:

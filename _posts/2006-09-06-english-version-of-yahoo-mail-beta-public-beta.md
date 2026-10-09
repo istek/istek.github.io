@@ -1,5 +1,5 @@
 ---
-title: Yahoo Mail Beta英文版公开测试
+title: "Yahoo Mail Beta英文版公开测试"
 date: 2006-09-06T01:30:50+00:00
 layout: post
 categories:

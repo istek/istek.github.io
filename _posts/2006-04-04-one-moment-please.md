@@ -1,5 +1,5 @@
 ---
-title: 'one moment please&#8230;'
+title: 'one moment please'
 date: 2006-04-04T07:20:36+00:00
 layout: post
 categories:

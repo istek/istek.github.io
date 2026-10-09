@@ -1,5 +1,5 @@
 ---
-title: BOX.NET注册方法
+title: "BOX.NET注册方法"
 date: 2006-09-23T16:10:13+00:00
 layout: post
 categories:

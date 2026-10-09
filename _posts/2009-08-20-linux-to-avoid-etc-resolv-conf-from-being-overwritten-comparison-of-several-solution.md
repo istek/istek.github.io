@@ -1,5 +1,5 @@
 ---
-title: Linux 中避免 /etc/resolv.conf 被改写 + 几种解决办法的比较
+title: "Linux 中避免 /etc/resolv.conf 被改写 + 几种解决办法的比较"
 date: 2009-08-20T21:01:15+00:00
 layout: post
 categories:

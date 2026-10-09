@@ -1,5 +1,5 @@
 ---
-title: 悲哀，悲哀
+title: "悲哀，悲哀"
 date: 2011-06-26T04:12:50+00:00
 layout: post
 categories:

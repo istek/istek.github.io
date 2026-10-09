@@ -1,5 +1,5 @@
 ---
-title: I can always make you smile
+title: "I can always make you smile"
 date: 2006-10-31T02:15:52+00:00
 layout: post
 categories:

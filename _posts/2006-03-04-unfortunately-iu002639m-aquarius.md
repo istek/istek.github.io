@@ -1,5 +1,5 @@
 ---
-title: 可惜我是水瓶座-杨千桦
+title: "可惜我是水瓶座-杨千桦"
 date: 2006-03-04T08:33:56+00:00
 layout: post
 categories:

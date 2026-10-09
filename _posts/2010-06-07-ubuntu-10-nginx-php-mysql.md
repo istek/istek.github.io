@@ -1,5 +1,5 @@
 ---
-title: Ubuntu 9.04 Nginx+php+mysql
+title: 'Ubuntu 9.04 Nginx+php+mysql'
 date: 2010-06-07T15:38:52+00:00
 layout: post
 categories:

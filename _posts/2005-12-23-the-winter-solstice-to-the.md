@@ -1,5 +1,5 @@
 ---
-title: '冬至到了～～～'
+title: "冬至到了"
 date: 2005-12-23T07:43:34+00:00
 layout: post
 categories:

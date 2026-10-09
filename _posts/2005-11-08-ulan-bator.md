@@ -1,5 +1,5 @@
 ---
-title: 英格玛－乌兰巴托的爸爸
+title: "英格玛－乌兰巴托的爸爸"
 date: 2005-11-08T13:17:56+00:00
 layout: post
 categories:

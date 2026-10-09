@@ -1,5 +1,5 @@
 ---
-title: 经典影片推荐《Romeo+Juliet》
+title: "经典影片推荐《Romeo+Juliet》"
 date: 2007-06-26T13:53:34+00:00
 layout: post
 categories:

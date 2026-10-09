@@ -2,7 +2,6 @@
 title: 吃在兰州
 date: 2006-06-03T04:05:44+00:00
 layout: post
-guid: http://www.mstz.us/?p=392
 categories:
   - 我的世界
 ---

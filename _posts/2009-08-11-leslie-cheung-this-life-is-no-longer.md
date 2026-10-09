@@ -1,5 +1,5 @@
 ---
-title: '张国荣 &#8211; 今生不再'
+title: '张国荣 - 今生不再'
 date: 2009-08-11T01:59:39+00:00
 layout: post
 categories:

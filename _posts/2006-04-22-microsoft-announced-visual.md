@@ -1,5 +1,5 @@
 ---
-title: 微软宣布Visual Studio 2005 Express永久免费
+title: "微软宣布Visual Studio 2005 Express永久免费"
 date: 2006-04-22T01:58:42+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 懒了，又懒了。
+title: "懒了，又懒了。"
 date: 2008-07-01T20:03:37+00:00
 layout: post
 categories:

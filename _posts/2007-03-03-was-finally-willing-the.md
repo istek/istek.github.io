@@ -1,5 +1,5 @@
 ---
-title: '终于心甘了&#8230;.'
+title: '终于心甘了'
 date: 2007-03-03T14:16:07+00:00
 layout: post
 categories:

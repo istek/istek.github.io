@@ -1,5 +1,5 @@
 ---
-title: '心理无限斗争中&#8230;'
+title: '心理无限斗争中'
 date: 2007-03-02T15:36:39+00:00
 layout: post
 categories:

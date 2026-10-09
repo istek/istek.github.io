@@ -1,5 +1,5 @@
 ---
-title: '?&#8230;!&#8230;'
+title: 'what what what'
 date: 2007-05-19T11:21:11+00:00
 layout: post
 categories:

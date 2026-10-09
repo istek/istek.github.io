@@ -1,5 +1,5 @@
 ---
-title: '暧昧Jazz &#8211; I Miss You'
+title: "暧昧Jazz - I Miss You"
 date: 2006-09-02T15:23:56+00:00
 layout: post
 categories:

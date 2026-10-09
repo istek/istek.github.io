@@ -1,5 +1,5 @@
 ---
-title: 'Rumer &#8211; Aretha (New single out now)'
+title: 'Rumer - Aretha (New single out now)'
 date: 2010-12-12T09:05:38+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Bitter:Sweet &#8211; Bittersweet Faith'
+title: 'Bitter:Sweet - Bittersweet Faith'
 date: 2008-09-28T07:38:38+00:00
 layout: post
 categories:
@@ -17,4 +17,3 @@ tags:
 好了，说了这么多，也该让大家听听了。下面是试听！
 
 <embed src="http://www.xiami.com/widget/16034005_2640057/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
-

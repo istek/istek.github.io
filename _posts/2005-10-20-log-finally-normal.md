@@ -1,5 +1,5 @@
 ---
-title: 日志总算正常了～
+title: "日志总算正常了～"
 date: 2005-10-20T08:02:02+00:00
 layout: post
 categories:

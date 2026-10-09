@@ -1,5 +1,5 @@
 ---
-title: 'Mr.Children &#8211; タガタメ'
+title: "Mr.Children - タガタメ"
 date: 2006-09-25T14:58:40+00:00
 layout: post
 categories:

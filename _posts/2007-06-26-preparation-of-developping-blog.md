@@ -1,5 +1,5 @@
 ---
-title: Preparation of Developping Blog
+title: "Preparation of Developping Blog"
 date: 2007-06-26T16:16:20+00:00
 layout: post
 categories:
@@ -49,4 +49,3 @@ aspnet_regiis -pe “connectionStrings” -app “/SampleApplication”
 
   1. Use oledbParameters.
   2. Verify Code.
-

@@ -1,5 +1,5 @@
 ---
-title: '舞动精灵-God is girl.'
+title: '舞动精灵-God is girl'
 date: 2006-04-06T01:50:01+00:00
 layout: post
 categories:

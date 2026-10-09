@@ -1,5 +1,5 @@
 ---
-title: CentOS5下iptables+tc流量控制心得
+title: 'CentOS5下iptables+tc流量控制心得'
 date: 2010-04-14T05:19:15+00:00
 layout: post
 categories:

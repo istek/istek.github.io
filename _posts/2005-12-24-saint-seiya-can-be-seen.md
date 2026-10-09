@@ -1,5 +1,5 @@
 ---
-title: '圣斗士可以看了～～～'
+title: '圣斗士可以看了'
 date: 2005-12-24T08:46:49+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: Install Sun/Oracle Java JDK/JRE 6u29 on Fedora 16/15, CentOS/RHEL 6/5.7(中英对照)
+title: 'Install Sun/Oracle Java JDK/JRE 6u29 on Fedora 16/15, CentOS/RHEL 6/5.7(中英对照)'
 date: 2011-11-22T02:00:42+00:00
 layout: post
 categories:

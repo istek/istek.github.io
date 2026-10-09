@@ -1,5 +1,5 @@
 ---
-title: 重建硬连接（hard link）
+title: "重建硬连接（hard link）"
 date: 2010-05-30T20:51:38+00:00
 layout: post
 categories:

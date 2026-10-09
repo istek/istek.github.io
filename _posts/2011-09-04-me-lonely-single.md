@@ -1,5 +1,5 @@
 ---
-title: 寂寞 孤独 与 我
+title: "寂寞 孤独 与 我"
 date: 2011-09-04T12:42:39+00:00
 layout: post
 categories:

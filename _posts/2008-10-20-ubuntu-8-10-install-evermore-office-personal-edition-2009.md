@@ -1,5 +1,5 @@
 ---
-title: Ubuntu 8.10安装永中Office个人版2009
+title: "Ubuntu 8.10安装永中Office个人版2009"
 date: 2008-10-20T08:47:06+00:00
 layout: post
 categories:
@@ -14,7 +14,7 @@ tags:
 
 下载永中集成Office
 
-下载:<http://218.90.147.70/EverMore/EIOPersonal/EIOffice>_Personal_Lin.tar.gz
+下载: http://218.90.147.70/EverMore/EIOPersonal/EIOffice_Personal_Lin.tar.gz
 
 2、将tar.gz包下载到主目录，然后解压缩
 

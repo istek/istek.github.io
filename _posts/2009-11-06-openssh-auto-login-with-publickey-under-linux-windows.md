@@ -1,5 +1,5 @@
 ---
-title: 基于公钥认证方式的 OpenSSH Server 自动登录完全手册
+title: "基于公钥认证方式的 OpenSSH Server 自动登录完全手册"
 date: 2009-11-06T01:15:53+00:00
 layout: post
 categories:

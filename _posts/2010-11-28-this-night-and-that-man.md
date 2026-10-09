@@ -1,5 +1,5 @@
 ---
-title: 这一个夜，那一个人
+title: "这一个夜，那一个人"
 date: 2010-11-28T07:09:56+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 戒情人-郑中基
+title: "戒情人-郑中基"
 date: 2006-03-08T15:48:52+00:00
 layout: post
 categories:

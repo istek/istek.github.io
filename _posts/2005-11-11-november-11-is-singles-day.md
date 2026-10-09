@@ -1,5 +1,5 @@
 ---
-title: '11月11日是“光棍节”吗？'
+title: "11月11日是“光棍节”吗？"
 date: 2005-11-11T11:18:09+00:00
 layout: post
 categories:

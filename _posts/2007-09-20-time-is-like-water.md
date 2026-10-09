@@ -1,5 +1,5 @@
 ---
-title: '时光如流水&#8230;'
+title: '时光如流水'
 date: 2007-09-20T15:13:04+00:00
 layout: post
 categories:

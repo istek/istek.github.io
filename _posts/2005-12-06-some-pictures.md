@@ -1,5 +1,5 @@
 ---
-title: '一些照片&#8230;'
+title: '一些照片'
 date: 2005-12-06T03:45:33+00:00
 layout: post
 categories:

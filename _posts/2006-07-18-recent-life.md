@@ -1,5 +1,5 @@
 ---
-title: '最近的生活&#8230;.'
+title: '最近的生活'
 date: 2006-07-18T00:51:43+00:00
 layout: post
 categories:

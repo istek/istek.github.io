@@ -1,5 +1,5 @@
 ---
-title: 青山テルマ的ここにいるよ
+title: "青山テルマ的ここにいるよ"
 date: 2008-06-08T19:36:36+00:00
 layout: post
 categories:

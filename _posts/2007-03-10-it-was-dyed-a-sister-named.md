@@ -1,5 +1,5 @@
 ---
-title: '被染妹点名了&#8230;'
+title: '被染妹点名了'
 date: 2007-03-10T17:22:21+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: Auto Completing of gvim/vim for PHP
+title: "Auto Completing of gvim/vim for PHP"
 date: 2008-12-23T01:29:31+00:00
 layout: post
 categories:

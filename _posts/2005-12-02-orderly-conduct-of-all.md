@@ -1,5 +1,5 @@
 ---
-title: '一切有序的进行中&#8230;.'
+title: '一切有序的进行中'
 date: 2005-12-02T09:29:37+00:00
 layout: post
 categories:

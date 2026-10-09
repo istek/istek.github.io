@@ -1,5 +1,5 @@
 ---
-title: 学习了ASP和ASP.NET的一点心得
+title: "学习了ASP和ASP.NET的一点心得"
 date: 2006-04-21T08:38:13+00:00
 layout: post
 categories:

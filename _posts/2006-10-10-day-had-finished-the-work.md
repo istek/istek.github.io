@@ -1,5 +1,5 @@
 ---
-title: '节过完了,该工作了&#8230;'
+title: '节过完了,该工作了'
 date: 2006-10-10T09:01:17+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: Ghost 2003简体中文版
+title: "Ghost 2003简体中文版"
 date: 2006-04-28T14:10:28+00:00
 layout: post
 categories:

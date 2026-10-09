@@ -1,5 +1,5 @@
 ---
-title: Foxmail 最新版
+title: "Foxmail 最新版"
 date: 2005-11-24T12:34:56+00:00
 layout: post
 categories:

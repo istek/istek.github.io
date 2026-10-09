@@ -1,5 +1,5 @@
 ---
-title: 'Chie Ayado &#8211; My Way'
+title: "Chie Ayado - My Way"
 date: 2005-11-08T13:00:03+00:00
 layout: post
 categories:

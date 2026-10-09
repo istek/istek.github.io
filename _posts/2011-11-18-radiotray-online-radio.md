@@ -1,5 +1,5 @@
 ---
-title: Radiotray-相当小巧的linux广播软件
+title: 'Radiotray-相当小巧的linux广播软件'
 date: 2011-11-18T03:14:41+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 数据库开发总结(ADO.NET小结)
+title: "数据库开发总结(ADO.NET小结)"
 date: 2006-06-28T14:36:58+00:00
 layout: post
 categories:

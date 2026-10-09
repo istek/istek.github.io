@@ -1,5 +1,5 @@
 ---
-title: 关于Windows Live Mail与Windows Mail 不能向新闻组发贴的解决
+title: "关于Windows Live Mail与Windows Mail 不能向新闻组发贴的解决"
 date: 2008-09-30T01:56:56+00:00
 layout: post
 categories:

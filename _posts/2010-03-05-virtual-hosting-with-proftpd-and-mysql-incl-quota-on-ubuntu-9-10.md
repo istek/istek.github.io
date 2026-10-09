@@ -1,5 +1,5 @@
 ---
-title: Virtual Hosting With Proftpd And MySQL (Incl. Quota) On Ubuntu 9.10
+title: 'Virtual Hosting With Proftpd And MySQL (Incl. Quota) On Ubuntu 9.10'
 date: 2010-03-05T05:41:28+00:00
 layout: post
 categories:

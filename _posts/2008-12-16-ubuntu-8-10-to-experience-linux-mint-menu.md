@@ -1,5 +1,5 @@
 ---
-title: Ubuntu 8.10 中体验 Linux Mint 菜单
+title: "Ubuntu 8.10 中体验 Linux Mint 菜单"
 date: 2008-12-16T19:54:59+00:00
 layout: post
 categories:

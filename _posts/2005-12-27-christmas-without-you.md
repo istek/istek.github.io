@@ -1,5 +1,5 @@
 ---
-title: 没有你的圣诞节-爱戴
+title: "没有你的圣诞节-爱戴"
 date: 2005-12-27T12:41:43+00:00
 layout: post
 categories:

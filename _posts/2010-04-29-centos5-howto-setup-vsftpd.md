@@ -1,5 +1,5 @@
 ---
-title: CentOS5-快速搭建ftp服务器
+title: 'CentOS5-快速搭建ftp服务器'
 date: 2010-04-29T20:09:53+00:00
 layout: post
 categories:

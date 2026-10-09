@@ -1,5 +1,5 @@
 ---
-title: 【音乐欣赏】乌兰巴托的爸爸
+title: "英格玛 - 乌兰巴托的爸爸"
 date: 2005-11-11T13:37:15+00:00
 layout: post
 categories:

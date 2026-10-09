@@ -1,5 +1,5 @@
 ---
-title: '有了车就是不一样了&#8230;'
+title: '有了车就是不一样了'
 date: 2006-07-05T15:01:17+00:00
 layout: post
 categories:

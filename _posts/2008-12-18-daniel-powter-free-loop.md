@@ -1,5 +1,5 @@
 ---
-title: Daniel Powter《Free Loop》
+title: "Daniel Powter《Free Loop》"
 date: 2008-12-18T01:33:06+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: CentOS下nginx+php+fastcgi笔记
+title: 'CentOS下nginx+php+fastcgi笔记'
 date: 2011-10-15T08:14:43+00:00
 layout: post
 categories:

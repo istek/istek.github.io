@@ -1,5 +1,5 @@
 ---
-title: 'Don&#039;t Wait Too Long'
+title: 'Dont Wait Too Long'
 date: 2006-09-21T06:02:49+00:00
 layout: post
 categories:

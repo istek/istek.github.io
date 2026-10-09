@@ -1,5 +1,5 @@
 ---
-title: '孙燕姿,Beauty!My super star!!!!!!'
+title: '孙燕姿,Beauty!My super star!'
 date: 2005-12-29T02:19:51+00:00
 layout: post
 categories:

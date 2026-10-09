@@ -1,5 +1,5 @@
 ---
-title: Ubuntu 8.10正式发布！
+title: "Ubuntu 8.10正式发布！"
 date: 2008-11-01T00:45:48+00:00
 layout: post
 categories:

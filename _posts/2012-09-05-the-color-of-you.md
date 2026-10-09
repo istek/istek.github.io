@@ -1,5 +1,5 @@
 ---
-title: 'Lisa Ekdah &#8211; The color of you'
+title: 'Lisa Ekdah - The color of you'
 date: 2012-09-05T21:05:10+00:00
 layout: post
 categories:

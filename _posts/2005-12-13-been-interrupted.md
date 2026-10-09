@@ -1,5 +1,5 @@
 ---
-title: '被人打扰了。。。。'
+title: '被人打扰了'
 date: 2005-12-13T07:23:02+00:00
 layout: post
 categories:

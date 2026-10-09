@@ -1,5 +1,5 @@
 ---
-title: 用NOKIA 6630当modem拨号上网
+title: "用NOKIA 6630当modem拨号上网"
 date: 2008-07-26T08:09:07+00:00
 layout: post
 categories:

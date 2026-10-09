@@ -1,5 +1,5 @@
 ---
-title: 迷信到底可信不可信?
+title: "迷信到底可信不可信?"
 date: 2005-11-08T12:37:07+00:00
 layout: post
 categories:

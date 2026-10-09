@@ -1,5 +1,5 @@
 ---
-title: 'Everything&#039;s changed&#8230;'
+title: "Everything's changed"
 date: 2006-01-18T02:09:35+00:00
 layout: post
 categories:

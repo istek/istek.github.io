@@ -1,5 +1,5 @@
 ---
-title: 通过升级BIOS激活WIN VISTA SP2/WIN7
+title: "通过升级BIOS激活WIN VISTA SP2/WIN7"
 date: 2010-01-10T05:23:30+00:00
 layout: post
 categories:

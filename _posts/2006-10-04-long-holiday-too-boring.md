@@ -1,5 +1,5 @@
 ---
-title: '悠长假期太无聊了&#8230;.'
+title: '悠长假期太无聊了'
 date: 2006-10-04T14:59:30+00:00
 layout: post
 categories:

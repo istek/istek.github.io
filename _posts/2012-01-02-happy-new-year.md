@@ -1,5 +1,5 @@
 ---
-title: Happy New Year!祝福我的好友！
+title: "Happy New Year!祝福我的好友！"
 date: 2012-01-02T08:08:32+00:00
 layout: post
 categories:

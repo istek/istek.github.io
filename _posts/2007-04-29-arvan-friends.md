@@ -1,5 +1,5 @@
 ---
-title: 'Arvan&amp;Friends'
+title: 'Arvan and Friends'
 date: 2007-04-29T02:13:38+00:00
 layout: post
 categories:

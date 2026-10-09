@@ -1,5 +1,5 @@
 ---
-title: Ubuntu创始人:桌面Linux难做也要做下去
+title: "Ubuntu创始人:桌面Linux难做也要做下去"
 date: 2009-08-06T01:09:57+00:00
 layout: post
 categories:

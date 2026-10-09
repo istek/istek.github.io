@@ -1,5 +1,5 @@
 ---
-title: '情人节快乐！Happy Valentine&#039;s Day!来历的故事!'
+title: '情人节来历的故事!'
 date: 2006-02-15T02:13:43+00:00
 layout: post
 categories:

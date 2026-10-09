@@ -1,5 +1,5 @@
 ---
-title: 关于使用HASH函数加密
+title: "关于使用HASH函数加密"
 date: 2006-10-17T07:56:44+00:00
 layout: post
 categories:

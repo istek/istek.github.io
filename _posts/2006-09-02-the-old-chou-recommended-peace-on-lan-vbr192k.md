@@ -1,5 +1,5 @@
 ---
-title: '[老周推荐]和平之月 &#8211; 兰 VBR192k'
+title: "[老周推荐]和平之月 - 兰 VBR192k"
 date: 2006-09-02T16:22:41+00:00
 layout: post
 categories:

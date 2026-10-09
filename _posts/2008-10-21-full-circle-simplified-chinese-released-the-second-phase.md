@@ -1,5 +1,5 @@
 ---
-title: Full Circle简体中文第二期发布
+title: "Full Circle简体中文第二期发布"
 date: 2008-10-21T19:35:49+00:00
 layout: post
 categories:

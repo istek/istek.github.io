@@ -1,5 +1,5 @@
 ---
-title: '我很失败.'
+title: '我很失败'
 date: 2005-12-17T18:05:51+00:00
 layout: post
 categories:

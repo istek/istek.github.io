@@ -1,5 +1,5 @@
 ---
-title: 黑莓MDS激活服务器搭建步骤教程/MDS企业激活服务器的搭建方法
+title: "黑莓MDS激活服务器搭建步骤教程/MDS企业激活服务器的搭建方法"
 date: 2010-09-25T21:42:35+00:00
 layout: post
 categories:

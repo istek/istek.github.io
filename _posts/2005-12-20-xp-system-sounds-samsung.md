@@ -1,5 +1,5 @@
 ---
-title: 'XP系统声音(Samsung)'
+title: "XP系统声音(Samsung)"
 date: 2005-12-20T01:43:40+00:00
 layout: post
 categories:

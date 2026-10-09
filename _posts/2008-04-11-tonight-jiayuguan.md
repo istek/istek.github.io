@@ -1,5 +1,5 @@
 ---
-title: '今夜&#8212;嘉峪关'
+title: '今夜..嘉峪关'
 date: 2008-04-11T03:22:04+00:00
 layout: post
 categories:

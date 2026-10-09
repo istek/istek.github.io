@@ -1,5 +1,5 @@
 ---
-title: 在LINUX中用cal命令解了一段人类文明历史 1752年9月
+title: '在LINUX中用cal命令解了一段人类文明历史 1752年9月'
 date: 2010-03-25T00:21:02+00:00
 layout: post
 categories:

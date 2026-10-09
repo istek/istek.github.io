@@ -1,5 +1,5 @@
 ---
-title: 孙燕姿 完美的一天
+title: "孙燕姿 完美的一天"
 date: 2005-12-30T02:11:58+00:00
 layout: post
 categories:

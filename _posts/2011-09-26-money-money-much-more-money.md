@@ -1,5 +1,5 @@
 ---
-title: 钱钱钱，好多好多
+title: "钱钱钱，好多好多"
 date: 2011-09-26T02:11:50+00:00
 layout: post
 categories:

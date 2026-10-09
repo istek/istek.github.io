@@ -1,5 +1,5 @@
 ---
-title: '为了&quot;解毒&quot;'
+title: '为了解毒'
 date: 2008-06-22T20:01:45+00:00
 layout: post
 categories:

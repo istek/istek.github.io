@@ -1,5 +1,5 @@
 ---
-title: 'BLOG升级了！'
+title: "BLOG升级了"
 date: 2005-11-02T02:43:12+00:00
 layout: post
 categories:
