@@ -1,5 +1,5 @@
 ---
-title: '在C#中应用哈希表'
+title: "在C#中应用哈希表"
 date: 2006-06-11T04:54:58+00:00
 layout: post
 categories:

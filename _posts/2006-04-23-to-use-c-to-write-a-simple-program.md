@@ -1,5 +1,5 @@
 ---
-title: '用C#写了一个简单的程序'
+title: "用C#写了一个简单的程序"
 date: 2006-04-23T10:29:16+00:00
 layout: post
 categories:
