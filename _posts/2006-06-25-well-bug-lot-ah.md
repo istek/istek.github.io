@@ -1,5 +1,5 @@
 ---
-title: '唉&#8230;.Bug好多啊!'
+title: "唉...Bug好多啊!"
 date: 2006-06-25T14:17:07+00:00
 layout: post
 categories:
