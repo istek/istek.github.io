@@ -8,7 +8,7 @@ tags:
   - Lisa Ekdah
 ---
 
-![Lisa Ekdah](https://qn.esesr.net/2017/06/faedab64034f78f09f4b21e679310a55b3191c66.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009170921240.png)
 
 Color Of You — Lisa Ekdahl
 
@@ -35,3 +35,4 @@ Will always make your dreams come true
 
 [试听链接](http://music.163.com/#/song?id=2923728)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pLkZLH5vkto?si=dYwjQyWbsOh5e1Ml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
