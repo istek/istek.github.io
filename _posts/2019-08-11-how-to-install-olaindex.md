@@ -6,7 +6,7 @@ category:
   - Linux
 tag:
   - OLAINDEX
-featured_image: ![](https://img.261540.xyz/piclist/2026_10_20261009152811101.png)
+featured_image: ”https://img.261540.xyz/piclist/2026_10_20261009152811101.png“
 ---
 
 OLAINDEX是一款 OneDrive 目录文件索引应用，基于优雅的 PHP 框架 Laravel5.8 搭建，并通过 Microsoft Graph 接口获取数据展示，支持多类型帐号登录，多种主题显示，简单而强大。
