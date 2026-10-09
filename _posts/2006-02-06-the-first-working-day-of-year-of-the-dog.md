@@ -10,4 +10,4 @@ categories:
 
 另，多来一张2号同学聚会时的照片。呵呵。
 
-![https://ws1.sinaimg.cn/mw690/622271cdgy1fm83jtdsb0j20sg0lc76h.jpg](https://ws1.sinaimg.cn/mw690/622271cdgy1fm83jtdsb0j20sg0lc76h.jpg)
+![](https://img.261540.xyz/piclist/2026_10_113889604614693.jpg)

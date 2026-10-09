@@ -6,7 +6,7 @@ categories:
   - 我的世界
 ---
 
-![http://www.zoommovie.com/dvd1/dvd-1-4391.jpg](http://www.zoommovie.com/dvd1/dvd-1-4391.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009145750435.png)
 
 由TVB拍摄的黄易的寻秦记，确实不错。这次TVB又将黄易的另一本书，覆雨翻云，搬上了屏幕，确实不错，我看了8集，是从PPSTREAM上看的，台词和人物造型都不错，呵呵。我贴个图吧。呵呵。
 

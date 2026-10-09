@@ -16,7 +16,7 @@ Let’s Encrypt是一家新成立的CA证书机构，它提供了免费的TLS/SS
 
 ### Let’s Encrypt工作原理
 
-![](https://assets.digitalocean.com/articles/letsencrypt/nginx-letsencrypt.png)
+![](https://img.261540.xyz/piclist/2026_10_20261009163120974.png)
 <!--more-->
 ### <span id="i-2">操作步骤 {#}
 
@@ -57,11 +57,11 @@ location ~ /.well-known {
 
 之后，会根据你的操作系统安装一系列的依赖的软件包，之后会提示你输入EMAIL地址，请注意，必须填写真实，有效的email地址，一旦你丢失了私钥，需要EMAIL来恢复你的key。
 
-![3](https://assets.digitalocean.com/articles/letsencrypt/le-email.png)
+![](https://img.261540.xyz/piclist/2026_10_20261009163154249.png)
 
 之后提示你是否同意许可说明，点击回车键（Enter）。
 
-![4](https://assets.digitalocean.com/articles/letsencrypt/le-agreement.png)
+![](https://img.261540.xyz/piclist/2026_10_20261009163213619.png)
 
 顺利地话，你会看到如下的终端输出信息，信息中包括了你的证书存储路径以及证书过期时间。
 ```
@@ -195,5 +195,3 @@ git pull
 
 
 [^DH]: Diffie-Hellman:一种确保共享KEY安全穿越不安全网络的方法，它是OAKLEY的一个组成部分。Whitefield与Martin Hellman在1976年提出了一个奇妙的密钥交换协议，称为Diffie-Hellman密钥交换协议/算法(Diffie-Hellman Key Exchange/Agreement Algorithm).这个机制的巧妙在于需要安全通信的双方可以用这个方法确定对称密钥。然后可以用这个密钥进行加密和解密。但是注意，这个密钥交换协议/算法只能用于密钥的交换，而不能进行消息的加密和解密。双方确定要用的密钥后，要使用其他对称密钥操作加密算法实际加密和解密消息。
-
-

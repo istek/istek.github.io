@@ -7,6 +7,8 @@ category:
 tag:
   - OpenVPN
 ---
+![](https://img.261540.xyz/piclist/2026_10_about_text_logo-768x224.png)
+
 使用环境：
 -----
 

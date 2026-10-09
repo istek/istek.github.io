@@ -30,6 +30,4 @@ tags:
 
 05 marmalade 03:02
 
-下载： <http://www.axifile.com/?9998318> 打开网页后，等待20秒后，出现下载链接
-
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=21719375&auto=1&height=66"></iframe>

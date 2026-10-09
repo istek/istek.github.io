@@ -21,19 +21,17 @@ categories:
 
 官方网站在[这里](http://tampermonkey.net/)，点击前往打开首页，如下图：
 
-![1](https://ws1.sinaimg.cn/large/622271cdgy1fm2tr349thj21gu0kjac2.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009160920851.png)
 
 Tampermonkey支持的浏览器主要有Chrome，Microsoft Edge，Safari，Opera Next（chrome内核）和Firefox，涵盖了所有平台。
 
 若您的浏览器也是Chrome点击_Chrome_标签下的 _Tempermonkey Stable_下的 **下载** 安装这个扩展，请看下图
 
-![2](https://ws1.sinaimg.cn/large/622271cdgy1fm2tzlcu8zj20xl0k2jtd.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009161030247.png)
 
 安装以后，chrome扩展中就可以看到这个扩展程序了，如下图：
 
-![3](https://ws1.sinaimg.cn/large/622271cdgy1fm2tvldrwuj20nm0dhgme.jpg)
-
-![4](https://ws1.sinaimg.cn/large/622271cdgy1fm2tx2qdhej20c806idg8.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009161507578.png)
 
 OK，Tempermonkey已经安装成功了，接下来我们需要给Tempermonkey增加用户脚本，让它帮我们干活。
 
@@ -48,7 +46,7 @@ OK，Tempermonkey已经安装成功了，接下来我们需要给Tempermonkey增
 
 我们从GreasyFork下载用户脚本，首先打开[GreasyFork](https://greasyfork.org/zh-CN)，如下图
 
-![5](https://ws1.sinaimg.cn/large/622271cdgy1fm2u19yee1j21gv0qd78t.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009161543450.png)
 
 搜索**百度网盘直接下载助手**这个关键字
 

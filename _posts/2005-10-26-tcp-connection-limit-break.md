@@ -11,4 +11,4 @@ categories:
 
 默认破解后的连接数是50，足够使用来BT了。呵呵。
 
-下载地址: [点击这里下载](https://www.bestzhou.org/software/tcpipPatch.exe)
+下载地址: [点击这里下载](#)

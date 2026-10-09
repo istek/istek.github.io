@@ -8,7 +8,7 @@ categories:
 
 新专辑《完美的一天》真的好好多，燕子，支持你！眼泪成诗最让我动心的一首佳作哦。她的歌曲越来越好听了～永远支持你。
 
-![完美的一天](https://ws1.sinaimg.cn/large/622271cdly1fm830zdeotj20gl0glgmz.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009145446898.png)
 
 英文：Stefanie Sun 星座：狮子座
 

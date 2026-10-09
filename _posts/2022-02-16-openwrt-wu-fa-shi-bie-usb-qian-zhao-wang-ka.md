@@ -35,7 +35,7 @@ root@OPENWRT 23:03 ~# lsusb -t
 
 第一个包，无法安装，因为缺少必要的一个固件包，如下图：
 
-![image.png](https://img.zhoutao.ren/202209102149781.jpeg)
+![image.png](https://cdn.jsdelivr.net/gh/istek/img/202209102149781.jpeg)
 
 于是只能安装第二个包，安装完成以后，重新拔插一次USB网卡，识别出来了
 

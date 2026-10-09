@@ -23,11 +23,11 @@ Ngrok, Pagekite的原理我不是很清楚，可能就是本地电脑安装的�
 
 解压文件夹到电脑，文件夹包括两个文件；sunny.exe以及Sunny-Ngrok启动工具.bat文件， 不需要直接运行sunny.exe，而是直接双击Sunny-Ngrok启动工具.bat即可。 如果提示“sunny.exe非内部外部程序” 错误，请确保两个文件在同一个文件夹里，或者右击sunny.exe属性 > 兼容性 > 勾选 以管理员身份运行此程序。
 
-![1](https://upyun.esesr.net/wp-files/2017/07/205_2.jpg?_upt=a3a95ec61512613230)
+![](https://img.261540.xyz/piclist/2026_10_205_2.jpg)
 
 运行`Sunny-Ngrok启动工具.bat`后将提示输入“客户端ID”。
 
-![2](https://upyun.esesr.net/wp-files/2017/07/205_3.jpg?_upt=deb682591512613230)
+![](https://img.261540.xyz/piclist/2026_10_205_3.jpg)
 
 # 注册Ngrok服务
 
@@ -39,7 +39,7 @@ Ngrok, Pagekite的原理我不是很清楚，可能就是本地电脑安装的�
 
 # Ngrok隧道设置
 
-![3](https://upyun.esesr.net/wp-files/2017/07/205_4.jpg?_upt=a8a432951512613230)
+![](https://img.261540.xyz/piclist/2026_10_205_4.jpg)
 
 * 隧道名称: 自定义名称
 * 域名类型: 选择使用前置域名，或使用自定义域名
@@ -51,13 +51,13 @@ Ngrok, Pagekite的原理我不是很清楚，可能就是本地电脑安装的�
 
 完成添加后，在隧道列表中即可查看到隧道ID，也就是你要使用的客户端ID，如下图所示：
 
-![4](https://upyun.esesr.net/wp-files/2017/07/205_6.jpg?_upt=612c97771512613230)
+![](https://img.261540.xyz/piclist/2026_10_205_6.jpg)
 
 # Windows系统下开机自动运行Ngrok
 
 运行`Sunny-Ngrok启动工具.bat`后将提示输入“客户端ID”。在CMD窗口输入隧道ID号并回车，这个时候你的服务器就可被外网访问了。
 
-![5](https://upyun.esesr.net/wp-files/2017/07/205_5.jpg?_upt=9f4337611512613230)
+![](https://img.261540.xyz/piclist/2026_10_205_5.jpg)
 
 当然，很多时候，我们想让程序能开机自动运行，那么如何才能实现呢？
 
@@ -69,10 +69,10 @@ a.选中该文件，并右击>编辑， 可看到该批处理的代码。
 
 b.对代码进行修改： 删除`set /p clientid= 输入需要启动的客户端id，多个客户端id请使用英文逗号（,）隔开：` 以及`PAUSE`代码。 使用注册的隧道ID替换`clientid`代码。并且，把`sunny.exe`更换为文件路径。修改后，保存。
 
-![6](https://upyun.esesr.net/wp-files/2017/07/205_7.jpg?_upt=0efcbf6c1512613230)
+![](https://img.261540.xyz/piclist/2026_10_205_7.jpg)
 
 2.把`Sunny-Ngrok启动工具.bat`放置到电脑【启动】文件夹里。
 
 开始 > 所有程序 > 启动， 右击【打开】。 把修改好的”Sunny-Ngrok启动工具.bat” 文件拖到（粘贴）到此文件夹。
 
-![7](https://upyun.esesr.net/wp-files/2017/07/205_1.jpg?_upt=f32e5b2a1512613230)
+![](https://img.261540.xyz/piclist/2026_10_205_1.jpg)

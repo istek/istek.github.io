@@ -21,7 +21,7 @@ categories:
 
 环境变量的配置看下图：
 <!--more-->
-![](https://qn.zhoutao.ren/TIM图片20171219230024.png)
+![](https://img.261540.xyz/piclist/2026_10_20261009155653512.png)
 
 ## 修改文件名
 
@@ -41,7 +41,7 @@ index-url = https://pypi.douban.com/simple
 
 保存，如下图：
 
-![](https://qn.zhoutao.ren/TIM截图20171219225508.png)
+![](https://img.261540.xyz/piclist/2026_10_20261009155719766.png)
 
 ## 重新安装pip2和pip3
 

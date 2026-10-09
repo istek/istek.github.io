@@ -26,32 +26,32 @@ categories:
 
 所需工具，卷烟器，烟纸，烟丝….当然少不了zippo….
 
- ![](attachments/month_0603/42006318224139.jpg)
+ ![](#)
 
 装填烟丝
 
- ![](attachments/month_0603/p2006318224251.jpg)
+ ![](#)
 
 装填烟丝完毕
 
- ![](attachments/month_0603/e2006318224657.jpg)
+ ![](#)
 
 盖上盖用手指推动滚轮将烟丝卷紧
 
- ![](attachments/month_0603/l2006318224746.jpg)
+ ![](#)
 
 放入一张烟纸
 
- ![](attachments/month_0603/q2006318224836.jpg)
+ ![](#)
 
 继续推动滚轮，将烟纸卷入最后在胶面上舔一下在全部卷入
 
- ![](attachments/month_0603/62006318224912.jpg)
+ ![](#)
 
 打开盖
 
- ![](attachments/month_0603/q2006318224541.jpg)
+ ![](#)
 
 完成
 
-![](attachments/month_0603/4200631822467.jpg)
+ ![](#)

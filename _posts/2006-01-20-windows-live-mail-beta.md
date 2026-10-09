@@ -5,7 +5,8 @@ layout: post
 categories:
   - Windows
 ---
-![](https://www3.imagine-msn.com/minisites/images/waitlists/header/WinLive.MailBeta.Logo.gif)
+
+![](https://img.261540.xyz/piclist/2026_10_20261009145917492.png)
 
 今天收到了HOTMAIL工作组邀请我试用windows live mail beta的邮件，当我尝试加入的时候，每次都是报错，报同样的错误。
 

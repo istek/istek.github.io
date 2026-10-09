@@ -380,7 +380,7 @@ service nginx start
 
 访问IP，应该显示nginx的欢迎页面
 
-![alt](https://upyun.esesr.net/20170625/wPdydVWbAwcy8r2d8jl4UV2e.png)
+![](https://img.261540.xyz/piclist/2026_10_wPdydVWbAwcy8r2d8jl4UV2e.png)
 
 ## 5. 配置负载
 
@@ -468,4 +468,3 @@ LoadModule weblogic_module /u01/wlsplugin/lib/mod_wl.so
 [^1]: 位置无关代码（Position Independent Code，PIC）
 
 [^2]: http://blog.csdn.net/xyang81/article/details/51702900
-

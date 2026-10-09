@@ -7,6 +7,7 @@ categories:
 tags:
   - Kopete
 ---
+![](https://img.261540.xyz/piclist/2026_10_20261009163931411.png)
 
 1.在kopete菜单设置－配置，新建帐户
 

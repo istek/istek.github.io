@@ -6,7 +6,7 @@ tags:
   - Python
 categories:
   - 开发
-thumbnail: "https://krazel-1256848099.cos.ap-chengdu.myqcloud.com/img/TIM-20180605202208.png"
+thumbnail: "https://img.261540.xyz/piclist/2026_10_TIM-20180605202208.png"
 ---
 首先，我从bootstrap网站找了一个简单的博客模板，然后将html文件作为模板文件放入templates目录，将index.html引用的CSS,JS,IMG等静态资源放入static目录，修改index.html文件，将页面上半部分和页面下半部分分为header和footer模板，然后index，post，newpost模板引入。
 

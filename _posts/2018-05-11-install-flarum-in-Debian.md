@@ -68,4 +68,4 @@ location ~* \.(css|js|gif|jpe?g|png)$ {
 ```
 
 
-  [1]: http://image.bestzhou.us/usr/uploads/2018/05/1791558129.jpg
+  [1]: https://img.261540.xyz/piclist/2026_10_1791558129.jpg

@@ -52,7 +52,7 @@ lstFoo[0] = 2
 
 如下图所示：
 
-![](http://qn.zhoutao.ren/20180108/Z2i7UWETe_PiVj9q28iNDbU0.jpg)
+![](https://img.261540.xyz/piclist/2026_10_Z2i7UWETe_PiVj9q28iNDbU0.jpg)
 
 ## Python的函数参数传递：传值？引用？
 

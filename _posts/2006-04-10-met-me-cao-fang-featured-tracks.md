@@ -180,7 +180,7 @@ PS：下载全部来自[海光制造](http://www.haiguang.org/blog) , 这里可�
 
 《遇见我》的全部曲目
 
-![](attachments/month_0604/320064100348.jpg)
+![](https://img.261540.xyz/piclist/2026_10_20261009151602618.png)
 
 曲目介绍
 

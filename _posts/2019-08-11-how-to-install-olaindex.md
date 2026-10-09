@@ -6,7 +6,7 @@ category:
   - Linux
 tag:
   - OLAINDEX
-featured_image: https://camo.githubusercontent.com/531630cfe86c547739f37171fd200bb1862f073c/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30362f31352f3564303439643732333039633337363133332e706e67
+featured_image: ![](https://img.261540.xyz/piclist/2026_10_20261009152811101.png)
 ---
 
 OLAINDEX是一款 OneDrive 目录文件索引应用，基于优雅的 PHP 框架 Laravel5.8 搭建，并通过 Microsoft Graph 接口获取数据展示，支持多类型帐号登录，多种主题显示，简单而强大。
@@ -78,7 +78,7 @@ root /web/www.ab.com/public;
 
 申请application，需要去[azure](https://portal.azure.com)申请，使用你的onedrive帐号登录portal，然后点击`Azure Active Directory`，再点击`App registrations`，就会显示已经建立的应用，如果要新建应用，点击`New registration`,`Redirect URI (optional)`就是回调地址。
 
-![](https://oss.zhoutao.ren/img/20190811153241.png)
+![](https://img.261540.xyz/piclist/2026_10_20261009153044841.png)
 
 ## 升级
 
@@ -99,4 +99,3 @@ chown -R www:www *
 ## 后台登录
 
 后台默认地址：`https://your.domain.com/admin`,初始后台密码12345678,也可通过命令行工具`php artisan od:password`生成一个新的8位数的密码。
-

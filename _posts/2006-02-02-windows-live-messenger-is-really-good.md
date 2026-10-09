@@ -6,7 +6,7 @@ categories:
   - Windows
 ---
 
-![abc](https://www5.imagine-msn.com/minisites/images/waitlists/header/WinLive.MSGRBeta.Logo.gif)
+![](https://img.261540.xyz/piclist/2026_10_20261009150127639.png)
 
 今天终于有幸安装体验下一版本的messenger了，下一版本的名字也改变为WINDOWS LIVE MESSENGER，界面与现在的7.5版本有部分区别，在功能上，我主要发现了以下几个地方：
 

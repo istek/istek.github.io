@@ -6,7 +6,7 @@ tags:
   - PicGo
 categories:
   - Windows
-thumbnail: "https://user-images.githubusercontent.com/12621342/33876119-85a5148e-df5f-11e7-8843-46224e595d52.png"
+thumbnail: "https://img.261540.xyz/piclist/2026_10_20261009154341111.png"
 ---
 [PicGo](https://github.com/Molunerfinn/PicGo)是国人开发的一款图库上传管理程序，目前支持了微博图床，七牛图床，腾讯云COS v4\v5版本，又拍云，GitHub，未来将支持更多图床。
 
@@ -20,6 +20,6 @@ thumbnail: "https://user-images.githubusercontent.com/12621342/33876119-85a5148e
 
 如果第一次使用，请参考应用[使用手册](https://github.com/Molunerfinn/PicGo/wiki)。
 
-![程序演示](https://user-images.githubusercontent.com/12621342/34242857-d177930a-e658-11e7-9688-7405851dd5e5.gif)
+![](https://img.261540.xyz/piclist/2026_10_20261009154410207.png)
 
-![macOS演示](https://user-images.githubusercontent.com/12621342/34242310-b5056510-e655-11e7-8568-60ffd4f71910.gif)
+![](https://img.261540.xyz/piclist/2026_10_20261009154427918.png)

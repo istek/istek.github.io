@@ -12,7 +12,7 @@ categories:
 
 插件说明:GMail提醒器，这个是一个简化版，Pro版还在开发中。上传插件后，先手动修改插件里的 options.asp 文件。在里面写你的GMail用户名(e.g: yourname@gmail.com 是你的邮箱，你只需要填yourname即可)和你的密码。
 
-[点击下载此文件](attachments/month_0601/i200619105748.rar)
+[点击下载此文件](#)
 
 GMail Notifier Pro 版本功能预览:
 

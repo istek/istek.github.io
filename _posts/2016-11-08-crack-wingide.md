@@ -144,9 +144,9 @@ print "The Activation Code is: "+act30
 注意脚本中的LicenseID和RequestCode，在激活时输入LicenseID，然后将获得的RequestCode替换脚本中的字符串，然后运行脚本，就获得了ActivationCode。
 
 1. 运行wingIDE，在激活窗口输入 CN123-12345-12345-12345
-![1](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1478581543/042514_0349_WingIDE1_ojutgi.png)
+![1](https://img.261540.xyz/piclist/2026_10_042514_0349_WingIDE1_ojutgi.png)
 2. 点击Continue后弹框，拷贝对话框中的RequestCode。
-![2](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1478581683/042514_0349_WingIDE2_lds8pp.png)
+![2](https://img.261540.xyz/piclist/2026_10_042514_0349_WingIDE2_lds8pp.png)
 3. 根据获得的RequestCode，替换脚本中的RequestCode里面的字符串，然后运行python脚本，就可以获得activationcode，填入就注册成功了！
 
 **注意：**
