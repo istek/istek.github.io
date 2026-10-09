@@ -7,7 +7,7 @@ categories:
 tags:
  - certbot
  - Cloudflare
-featured_image: 
+image: 
 ---
 
 1、安装certbot

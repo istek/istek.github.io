@@ -6,7 +6,7 @@ categories:
  - Windows
 tags:
  - GitHub
-featured_image: 
+image: 
 ---
 
 今天在更新博客文章时，发现无法push代码，错误如下：

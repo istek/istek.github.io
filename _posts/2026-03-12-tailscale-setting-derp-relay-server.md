@@ -6,7 +6,7 @@ categories:
  - Linux
 tags:
  - Tailscale
-featured_image: 
+image: 
 ---
 
 # 1. Tailscale 与 DERP 简介

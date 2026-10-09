@@ -6,7 +6,7 @@ categories:
  - Linux
 tags:
  - Cloudflare
-featured_image: 
+image: 
 ---
 
 今天在使用CloudFlare的tunnel，给NAS搞一个公网访问，结果发现从NAS里面运行docker，Cloudflare客户端无法建立连接，错误如下：

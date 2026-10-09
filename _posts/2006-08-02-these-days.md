@@ -1,5 +1,5 @@
 ---
-title: 'These Days..'
+title: 'These Days'
 date: 2006-08-02T01:23:21+00:00
 layout: post
 categories:
