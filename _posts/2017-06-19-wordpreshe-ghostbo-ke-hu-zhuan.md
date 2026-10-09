@@ -54,6 +54,7 @@ zip wp2ghost.zip wp2ghost_export_1418184250.json
 
 编辑`ghost/content/theme/casper/post.hbs`文件，在`</footer>`和`</article>`之间添加如下代码
 
+```
 {% highlight liquid linenos %}
 {% raw %}
 {% <div id="disqus_thread"></div> %}
@@ -73,6 +74,7 @@ zip wp2ghost.zip wp2ghost_export_1418184250.json
 {% <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> %}
 {% endraw %}
 {% endhighlight %}
+```
 
 注意：代码中**你的disqus网站名**，这个填你自己的网站名。
 
@@ -122,5 +124,3 @@ python ghost2wp.py -e http://example.com/xmlrpc.php -f xxx.json -u WP用户名 -
 
 
 [^1]: <https://www.ghostforbeginners.com/migrating-your-wordpress-blog-to-ghost/> https://help.ghost.org/hc/en-us/articles/225093168-Migrating-From-WordPress-to-Ghost
-
-
