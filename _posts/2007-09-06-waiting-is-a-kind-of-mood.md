@@ -1,5 +1,5 @@
 ---
-title: '等待是一种心情&#8230;'
+title: '等待是一种心情'
 date: 2007-09-06T15:16:12+00:00
 layout: post
 categories:
