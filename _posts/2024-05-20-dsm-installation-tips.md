@@ -2,7 +2,7 @@
 title: "ESXI安装群晖后的一些设置"
 date: 2024-05-20T09:24:35+08:00
 type: post
-category: 
+categories: 
  - Linux
 tags:
  - 云存储

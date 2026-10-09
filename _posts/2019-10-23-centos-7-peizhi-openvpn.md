@@ -2,9 +2,9 @@
 title: 'CentOS 7 配置 OpenVPN'
 date: 2019-10-23 21:05:51
 type: post
-category:
+categories:
   - Linux
-tag:
+tags:
   - OpenVPN
 ---
 ![](https://img.261540.xyz/piclist/2026_10_about_text_logo-768x224.png)

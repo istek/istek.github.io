@@ -2,9 +2,9 @@
 title: 使用Proxifier加速git
 date: 2020-03-21 22:36:45
 type: post
-category:
+categories:
   - Windows
-tag:
+tags:
   - Proxifier
 ---
 基于众所周知的原因，gitlab，github要上传下载代码实在是太慢了，很多人使用``git config``配置全局代理的方式加速上传下载。

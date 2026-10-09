@@ -2,9 +2,9 @@
 title: VPS配置不可描述服务
 date: 2021-04-11 16:24:35
 type: post
-category:
+categories:
  - Linux
-tag:
+tags:
  - Xray
 ---
 

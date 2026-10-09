@@ -2,7 +2,7 @@
 title: 'BuyPass 免费域名 SSL 证书ACME API申请方法'
 date: 2022-08-01 16:24:35
 type: post
-category:
+categories:
  - Linux
 tags:
  - "Let's Encrypt"

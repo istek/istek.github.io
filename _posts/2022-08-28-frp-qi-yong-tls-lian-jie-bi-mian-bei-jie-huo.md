@@ -2,7 +2,7 @@
 title: 'frp启用TLS连接，避免被截获'
 date: 2022-08-28 16:24:35
 type: post
-category:
+categories:
  - Linux
 tags:
  - frp

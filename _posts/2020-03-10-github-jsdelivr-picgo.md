@@ -2,9 +2,9 @@
 title: 使用Github+jsDelivr+PicGo搭建图床
 date: 2020-03-10 21:48:14
 type: post
-category:
+categories:
   - Windows
-tag:
+tags:
   - PicGo
 ---
 - GitHub：全球最大开源托管站，微软旗下。

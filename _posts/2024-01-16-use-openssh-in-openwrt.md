@@ -2,7 +2,7 @@
 title: 'openwrt使用openssh'
 date: 2024-01-16 21:24:35
 type: post
-category:
+categories:
  - Linux
 tags:
  - OpenWRT

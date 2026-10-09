@@ -2,9 +2,9 @@
 title: 'OpenVPN+frp突破内网限制'
 date: 2019-10-22 14:19:34
 type: post
-category:
+categories:
   - Windows
-tag:
+tags:
   - OpenVPN
 ---
 在有些办公场景中，我们需要有一根VPN连接到办公室的网络上，这样便于操作办公室的电脑。经过测试了两款VPN软件后，还是选择了openvpn，但是frp+openvpn有一个特殊要求，即公网的服务器带宽越大越好，1M的VPS实在是太痛苦了，不过聊胜于无啊。

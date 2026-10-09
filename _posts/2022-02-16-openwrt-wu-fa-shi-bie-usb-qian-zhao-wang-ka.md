@@ -2,7 +2,7 @@
 title: openwrt无法识别USB千兆网卡
 date: 2022-02-16 16:24:35
 type: post
-category:
+categories:
  - Linux
 tags:
  - OpenWRT

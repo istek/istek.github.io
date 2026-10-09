@@ -2,9 +2,9 @@
 title: '安装 Google BBR 加速VPS网络'
 date: 2018-08-20 12:23:18
 type: post
-category:
+categories:
  - Linux
-tag:
+tags:
  - BBR
 ---
 

@@ -2,7 +2,7 @@
 title: "使用WinSCP连接OneDrive"
 date: 2024-06-05T19:28:35+08:00
 type: post
-category: 
+categories: 
  - Windows
 tags:
  - OneDrive

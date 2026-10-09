@@ -2,9 +2,9 @@
 title: "安装及配置OLAINDEX"
 date: 2019-08-11T15:17:32+08:00
 draft: false
-category:
+categories:
   - Linux
-tag:
+tags:
   - OLAINDEX
 featured_image: ”https://img.261540.xyz/piclist/2026_10_20261009152811101.png“
 ---

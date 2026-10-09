@@ -2,9 +2,9 @@
 title: 部署WordPress+PostgreSQL
 date: 2020-11-08 09:24:35
 type: post
-category:
+categories:
  - Linux
-tag:
+tags:
  - WordPress
 ---
 

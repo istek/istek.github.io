@@ -2,9 +2,9 @@
 title: 'Oracle PL/SQL编程详解'
 date: 2018-12-31 21:47:35
 type: post
-category:
+categories:
   - 开发
-tag:
+tags:
   - Oracle
 ---
 Oracle PL/SQL编程详解

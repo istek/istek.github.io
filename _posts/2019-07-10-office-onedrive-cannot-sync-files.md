@@ -2,9 +2,9 @@
 title: 'Office OneDrive无法同步文件'
 date: 2019-07-10 11:04:28
 type: post
-category:
+categories:
  - Windows
-tag:
+tags:
  - OneDrive
 ---
 昨天我发现我这边无法同步OD的文件，感觉很奇怪，因为先前都是工作正常的，只能怀疑要么是被墙了，要么就是我电脑的问题。

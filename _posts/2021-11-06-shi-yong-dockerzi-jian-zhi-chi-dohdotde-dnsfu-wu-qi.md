@@ -2,7 +2,7 @@
 title: '使用 DOCKER 自建支持 DOH、DOT 的 DNS 服务器'
 date: 2021-11-06 16:24:35
 type: post
-category:
+categories:
  - Linux
 tags:
  - AdGuard

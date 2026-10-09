@@ -2,7 +2,7 @@
 title: "PVE硬件直通之网卡直通"
 date: 2024-05-20T09:28:35+08:00
 type: post
-category: 
+categories: 
  - Linux
 ---
 

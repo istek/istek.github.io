@@ -2,7 +2,7 @@
 title: 'Maddy：多合一邮件服务器'
 date: 2021-11-06 20:24:35
 type: post
-category:
+categories:
  - Linux
 tags:
  - Maddy

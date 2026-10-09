@@ -2,7 +2,7 @@
 title: "新域名，新起点"
 date: 2024-01-28T09:24:35+08:00
 type: post
-category: 
+categories: 
  - 我的世界
 ---
 
