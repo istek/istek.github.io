@@ -1,5 +1,5 @@
 ---
-title: '今天把备案搞定了&#8230;.'
+title: '今天把备案搞定了'
 date: 2006-04-15T05:48:14+00:00
 layout: post
 categories:
