@@ -6,11 +6,10 @@ categories:
   - 音乐
 tags:
   - Lisa Ekdah
+image: https://img.261540.xyz/piclist/2026_10_20261009170921240.png
 ---
 
-![](https://img.261540.xyz/piclist/2026_10_20261009170921240.png)
-
-Color Of You — Lisa Ekdahl
+##　Color Of You — Lisa Ekdahl
 
 Blue is the color of love
 When your lover has gone from you
