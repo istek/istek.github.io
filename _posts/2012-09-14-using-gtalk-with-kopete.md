@@ -6,9 +6,8 @@ categories:
   - Linux
 tags:
   - Kopete
+image: https://img.261540.xyz/piclist/2026_10_20261009163931411.png
 ---
-![](https://img.261540.xyz/piclist/2026_10_20261009163931411.png)
-
 1.在kopete菜单设置－配置，新建帐户
 
 2.点击新建，协议选择jabber,点击下一步

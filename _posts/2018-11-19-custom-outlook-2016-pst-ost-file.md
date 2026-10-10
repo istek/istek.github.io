@@ -6,11 +6,12 @@ categories:
   - Windows
 tags:
   - Outlook
+image: https://img.261540.xyz/piclist/2026_10_20261009153315179.png
 ---
 当使用outlook 2016新建Email账户的时候，其数据文件（.ost文件）总是被保存在C盘默认目录`C:\Users\用户名\AppData\Local\Microsoft\Outlook`下，这样占用C盘的空间。在默认状态下进入Outlook，发现设置选项中关于.ost文件的保存位置，这似乎是无法修改的。笔者在网上进行了一系列的搜索，如何来修改默认的ost存储位置，按照网上的做法，大家有的用控制面板里面的“邮件”来修改，我试过了，发现在win10+office2016下面无相关选项；有的说是修改注册表，添加`ForceOstPath`键值，还是不行。
 
 几经辗转，笔者终于找到了可行且容易的解决方法，效果看图：  
-![](https://img.261540.xyz/piclist/2026_10_20261009153315179.png)
+
 <!--more-->
 具体操作流程如下：
 

@@ -1,6 +1,6 @@
 ---
-title: 常用的SQL语法
-date: 2005-10-20T14:56:07+00:00
+title: "常用的SQL语法"
+date: 2005-10-20 14:56:07
 layout: post
 categories:
   - 开发
