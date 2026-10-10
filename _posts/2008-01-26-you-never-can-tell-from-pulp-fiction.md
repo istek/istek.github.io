@@ -14,4 +14,4 @@ Swing is so hot and bewitched. John is not a movie star but a swing dancer, befo
 
 The other point is it exactly describ the culture in the 70’s. I wish you guys to watch and enjoy it. Please remeber “Violence is a cycle, and continuous”.
 
-<embed src="http://www.xiami.com/widget/16034005_1005369/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Q3ADnJKpY?si=hlkTV9hott6beHAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
