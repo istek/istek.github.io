@@ -34,23 +34,23 @@ tags:
 编辑`ghost/content/themes/casper/default.hbs`文件
 
 将下面的这段代码的域名部分做修改
-
+```
 {% highlight liquid linenos %}
 {% raw %}
 {% {{!-- Styles'n'Scripts --}} %}
 {% <link rel="stylesheet" type="text/css" href="//fonts.lug.ustc.edu.cn/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" /> %}
 {% endraw %}
 {% endhighlight %}
-
+```
 改为
-
+```
 {% highlight liquid linenos %}
 {% raw %}
 {% {{!-- Styles'n'Scripts --}} %}
 {% <link rel="stylesheet" type="text/css" href="//fonts.css.network/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" /> %}
 {% endraw %}
 {% endhighlight %}
-
+```
 # 2. Gravatar 头像国内镜像
 
 选用下面的一个就可以。
@@ -218,21 +218,21 @@ storage: {
 `prism.css` 上传到`ghost/content/themes/casper/assets/css/` 目录
 
 然后修改`default.hbs`文件，在`</head>` 之前加入如下代码
-
+```
 {% highlight liquid linenos %}
 {% raw %}
 {% <link rel="stylesheet" type="text/css" href="{{asset "css/prism.css"}}" /> %}
 {% endraw %}
 {% endhighlight %}
-
+```
 在`</body>` 之前，加入如下代码
-
+```
 {% highlight liquid linenos %}
 {% raw %}
 {% <script type="text/javascript" src="{{asset "js/prism.js"}}"></script> %}
 {% endraw %}
 {% endhighlight %}
-
+```
 OKAY，大功告成，重启应用，以后需要高亮代码的时候，在**```**后面增加语言名称即可，示例如下：
 
 ```sql
