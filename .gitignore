@@ -16,6 +16,7 @@ node_modules
 package-lock.json
 
 # IDE configurations
+.zed
 .idea
 .vscode/*
 !.vscode/settings.json
