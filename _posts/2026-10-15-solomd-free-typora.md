@@ -9,7 +9,7 @@ tags:
 image: https://img.261540.xyz/piclist/2026_10_1792026888.png
 ---
 
-AI时代，人人都可以做可发，也是重复造轮子的时代，今天我想介绍一个markdown编辑器`SoloMD`，1.3K star，截止目前下载量超过81k，`SoloMD`既是markdown编辑器，又内置了`Agent`面板，一些活可以交给AI处理。
+AI时代，人人都可以做开发，也是重复造轮子的时代，今天我想介绍一个markdown编辑器`SoloMD`，1.3K star，截止目前下载量超过81k，`SoloMD`既是markdown编辑器，又内置了`Agent`面板，一些活可以交给AI处理。
 <!--more-->
 
 ## 卖点：Typora 能做的，它全能做。免费。
