@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem 'jekyll', '~> 4.4.1', '>= 4.4.1'
 gem 'base64', '~> 0.3.0'
 gem 'csv', '~> 3.3.6'
-gem 'jekyll-theme-chirpy', '~> 7.6.0'
+gem 'jekyll-theme-chirpy', '~> 7.6'
 gem "html-proofer", "~> 5.2.2", group: :test
 
 
